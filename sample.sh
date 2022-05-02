@@ -15,3 +15,7 @@ echo ${c[1]}
 echo first argument is $1 and second argument is $2
 echo all arguments are $*
 echo total number of arguments is $#
+
+date = $(date +%F)
+
+echo Current Date is:$date
