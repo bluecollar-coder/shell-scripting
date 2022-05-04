@@ -2,10 +2,10 @@
 fruit=Apple
 echo FRUIT name is $fruit
 ls
-echo -e "Default \e[32m Green \e[0m \n"
-echo -e "\e[34m Blue \e[0m " Hello in  World!
+echo -e "Default color is \e[32m Green \e[0m \n"
+echo -e "\e[34m Hello in Blue World! \e[0m "
 echo -e "\e[35m Hello Purple World \e[0m "
-echo -e "\e[31m Hello Red \e[0m World"
+echo -e "\e[31m Hello Red World \e[0m "
 a=20
 a=25
 echo $a
