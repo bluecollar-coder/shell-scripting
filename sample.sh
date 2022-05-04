@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 fruit=Apple
 echo FRUIT name is $fruit
 ls
