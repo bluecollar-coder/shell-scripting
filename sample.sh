@@ -21,3 +21,5 @@ echo Current Date is $DATE
 
 SUM=$((2+3))
 echo Sum of Numbers 2and 3 is $SUM
+
+echo Variable A from CLI = ${A}
